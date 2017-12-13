@@ -30,17 +30,19 @@ img {
 h1 {
     text-align: center;
     text-shadow: 2px 2px #ffffff;
+    color: red;
 }
 
 h2 {
     text-align: center;
     text-shadow: 2px 2px #ffffff;
+    color: red;
 }
 
 .create-update-form {
     padding: 25px;
     margin: 25px;
-    background: #eceff1;
+    background: #cd2626;
     border: 1px black solid;
 }
 
@@ -50,6 +52,8 @@ h2 {
 
 .btn-primary {
     border-radius: 15px;
+    background-color: #cd2626;
+    border-color: yellow;
 }
 
 html,
@@ -63,7 +67,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-color: #000000;
+
 }
 
 div,
